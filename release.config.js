@@ -3,7 +3,7 @@ config.plugins.push(
   [
     "@terrestris/maven-semantic-release",
     {
-      "mavenTarget": "'package jib:build'",
+      "mavenTarget": "package jib:build",
       "settingsPath": "./settings.xml",
       "updateSnapshotVersion": true,
       "mvnw": true
