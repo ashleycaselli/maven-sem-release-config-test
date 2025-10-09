@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/ashleycaselli/maven-sem-release-config-test/compare/1.0.0...1.0.1) (2025-10-09)
+
+### Bug Fixes
+
+* dockerhub registry id ([f181278](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/f1812780446e95b05fb1b7706cbb910cc58cd8c8))
+
 ## 1.0.0 (2025-10-09)
 
 ### Dependency updates
