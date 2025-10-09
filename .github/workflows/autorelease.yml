@@ -2,11 +2,11 @@ name: Autorelease
 
 on:
   push:
-    branches: [ master ]
+    branches: [ master, main ]
     paths-ignore:
       - 'CHANGELOG.md'
   pull_request:
-    branches: [ master ]
+    branches: [ master, main ]
 
 env:
   IMAGE_NAME: "ashleycaselli/maven-sem-release-config-test"
