@@ -2,14 +2,14 @@ name: Autorelease
 
 on:
   push:
-    branches: [ master, main ]
+    branches: [ main ]
     paths-ignore:
       - 'CHANGELOG.md'
   pull_request:
-    branches: [ master, main ]
+    branches: [ main ]
 
 env:
-  IMAGE_NAME: "ashleycaselli/maven-sem-release-config-test"
+  IMAGE_NAME: ${{ vars.IMAGE_NAME }}
   GITHUB_USERNAME: ${{ github.actor }}
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   DOCKERHUB_USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}
