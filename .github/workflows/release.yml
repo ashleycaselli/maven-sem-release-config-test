@@ -2,7 +2,7 @@ name: Autorelease
 
 on:
   push:
-    branches: [ main ]
+    branches: [ * ]
     paths-ignore:
       - 'CHANGELOG.md'
   pull_request:
