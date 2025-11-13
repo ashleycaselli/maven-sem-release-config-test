@@ -1,3 +1,13 @@
+## [2.1.0](https://github.com/ashleycaselli/maven-sem-release-config-test/compare/custom-tag-2.0.1...custom-tag-2.1.0) (2025-11-13)
+
+### Features
+
+* add feature so trigger another release when merged to release ([5c08695](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/5c086959ad23e795794a990d94590088b51c6f23))
+
+### General maintenance
+
+* setting next snapshot version [skip ci] ([60204ae](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/60204ae7b66ce735ad3ccd225c8d311408ab40ec))
+
 ## [2.0.1](https://github.com/ashleycaselli/maven-sem-release-config-test/compare/custom-tag-2.0.0...custom-tag-2.0.1) (2025-11-13)
 
 ### Bug Fixes
