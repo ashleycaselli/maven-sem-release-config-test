@@ -1,3 +1,22 @@
+## [4.0.0](https://github.com/ashleycaselli/maven-sem-release-config-test/compare/custom-tag-3.0.0...custom-tag-4.0.0) (2025-11-13)
+
+### ⚠ BREAKING CHANGES
+
+* trigger major release
+
+### Features
+
+* trigger major release ([98b118c](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/98b118cf5120edb3f76fc3d4ee4efe28aac3d6bf))
+
+### General maintenance
+
+* **release:** 2.0.1 [skip ci] ([a50e5dd](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/a50e5ddee7043ae26f3694e365fa238213e1c495))
+* **release:** 2.1.0 [skip ci] ([25ea7ad](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/25ea7ad877be99f1d10245144ab693f9f2393782))
+* **release:** 2.2.0 [skip ci] ([a8cb97c](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/a8cb97ccf811b15236773e64c60c9408bc847a2c))
+* setting next snapshot version [skip ci] ([afdf65a](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/afdf65ad70448d40475f57d8f34b89f2e13fedde))
+* setting next snapshot version [skip ci] ([a9572cd](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/a9572cdace541a490da950a107e8136b59f91003))
+* setting next snapshot version [skip ci] ([60204ae](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/60204ae7b66ce735ad3ccd225c8d311408ab40ec))
+
 ## [2.2.0](https://github.com/ashleycaselli/maven-sem-release-config-test/compare/custom-tag-2.1.0...custom-tag-2.2.0) (2025-11-13)
 
 ### Features
