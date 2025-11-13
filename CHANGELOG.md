@@ -1,3 +1,13 @@
+## [2.2.0](https://github.com/ashleycaselli/maven-sem-release-config-test/compare/custom-tag-2.1.0...custom-tag-2.2.0) (2025-11-13)
+
+### Features
+
+* trigger minor release for testing ([a4e9828](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/a4e98281d7519416240247860f3324ddfcd806d5))
+
+### General maintenance
+
+* setting next snapshot version [skip ci] ([a9572cd](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/a9572cdace541a490da950a107e8136b59f91003))
+
 ## [2.1.0](https://github.com/ashleycaselli/maven-sem-release-config-test/compare/custom-tag-2.0.1...custom-tag-2.1.0) (2025-11-13)
 
 ### Features
