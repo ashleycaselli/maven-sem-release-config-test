@@ -1,3 +1,15 @@
+## [2.0.1](https://github.com/ashleycaselli/maven-sem-release-config-test/compare/custom-tag-2.0.0...custom-tag-2.0.1) (2025-11-13)
+
+### Bug Fixes
+
+* update release branch config ([c01d384](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/c01d38494bc2afad4051df4269c56f93f3b75806))
+* update release branch configuration ([117808b](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/117808b63e56cf5121cd3b3ccb7abff8a64f8c70))
+* update release branch configuration ([2a49a3b](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/2a49a3b11a73b9f5cb3bca1bfe50cd660164ac4e))
+
+### General maintenance
+
+* setting next snapshot version [skip ci] ([4499f97](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/4499f97bbcb1bcacd88c2366ea2a478c49e631bf))
+
 ## [2.0.0](https://github.com/ashleycaselli/maven-sem-release-config-test/compare/custom-tag-1.1.0...custom-tag-2.0.0) (2025-11-13)
 
 ### ⚠ BREAKING CHANGES
