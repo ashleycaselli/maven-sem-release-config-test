@@ -1,6 +1,6 @@
 let config = require('semantic-release-preconfigured-conventional-commits');
 config.tagFormat = 'custom-tag-${version}'
-config.branches = ["release"];
+config.branches = ['release'];
 config.plugins.push(
   [
     "@terrestris/maven-semantic-release",
