@@ -2,11 +2,11 @@ name: Autorelease
 
 on:
   push:
-    branches: [ "*" ]
+    branches: [ release ]
     paths-ignore:
       - 'CHANGELOG.md'
   pull_request:
-    branches: [ main ]
+    branches: [ main, release ]
 
 env:
   IMAGE_NAME: ${{ vars.IMAGE_NAME }}
