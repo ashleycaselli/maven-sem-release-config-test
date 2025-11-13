@@ -13,4 +13,4 @@ config.plugins.push(
   "@semantic-release/github",
   "@semantic-release/git"
 )
-module.exports = config
+module.exports = config;
