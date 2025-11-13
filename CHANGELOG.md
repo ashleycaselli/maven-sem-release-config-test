@@ -1,3 +1,17 @@
+## [1.0.1](https://github.com/ashleycaselli/maven-sem-release-config-test/compare/custom-tag-1.0.0...custom-tag-1.0.1) (2025-11-13)
+
+### Bug Fixes
+
+* trigger a release ([34040ef](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/34040efe2965e1ab25ba53a055bb7334752d49fe))
+
+### Build and continuous integration
+
+* add release branches ([b189bed](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/b189bed7c024808b1175f3fc8bfa9ef5e7d95365))
+
+### General maintenance
+
+* setting next snapshot version [skip ci] ([b94d511](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/b94d511648f506878f964f738c7380f2b0ad5b63))
+
 ## 1.0.0 (2025-10-09)
 
 ### Dependency updates
