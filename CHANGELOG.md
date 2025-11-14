@@ -1,3 +1,13 @@
+## [4.0.1](https://github.com/ashleycaselli/maven-sem-release-config-test/compare/custom-tag-4.0.0...custom-tag-4.0.1) (2025-11-14)
+
+### Bug Fixes
+
+* this is a fix ([1076f3c](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/1076f3c201b7e836affc65f0833fb0798cb34a44))
+
+### General maintenance
+
+* setting next snapshot version [skip ci] ([9109fec](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/9109fec610bcedc7238760e8db142f8c7a65de74))
+
 ## [4.0.0](https://github.com/ashleycaselli/maven-sem-release-config-test/compare/custom-tag-3.0.0...custom-tag-4.0.0) (2025-11-13)
 
 ### ⚠ BREAKING CHANGES
