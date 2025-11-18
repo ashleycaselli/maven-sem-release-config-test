@@ -6,7 +6,7 @@
 
   <groupId>ch.ashleycaselli</groupId>
   <artifactId>maven-sem-release-config-test</artifactId>
-  <version>4.0.3-SNAPSHOT</version>
+  <version>4.0.4-SNAPSHOT</version>
   <name>maven-sem-release-config-test</name>
   <packaging>war</packaging>
   <build>
