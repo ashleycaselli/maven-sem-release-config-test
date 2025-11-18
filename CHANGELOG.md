@@ -1,3 +1,13 @@
+## [4.0.4](https://github.com/ashleycaselli/maven-sem-release-config-test/compare/custom-tag-4.0.3...custom-tag-4.0.4) (2025-11-18)
+
+### Bug Fixes
+
+* update nodejs version in CI - trigger release for testing ([34560f5](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/34560f51cea81a57e14b06af704e27a51db9b90c))
+
+### General maintenance
+
+* setting next snapshot version [skip ci] ([46a8ca4](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/46a8ca434b341b50c5e80f9d4351f34554684ace))
+
 ## [4.0.3](https://github.com/ashleycaselli/maven-sem-release-config-test/compare/custom-tag-4.0.2...custom-tag-4.0.3) (2025-11-18)
 
 ### Dependency updates
