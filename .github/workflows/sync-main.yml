@@ -1,4 +1,5 @@
-name: sync-master.yml
+name: Sync master branch after release
+
 on:
   release:
     types: [ published ]
