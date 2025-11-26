@@ -1,3 +1,13 @@
+## [4.1.1](https://github.com/ashleycaselli/maven-sem-release-config-test/compare/custom-tag-4.1.0...custom-tag-4.1.1) (2025-11-26)
+
+### Bug Fixes
+
+* update ci with PAT token. force release ([bf53dd2](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/bf53dd25e33095f2f3717e165d84235ac262f0d5))
+
+### General maintenance
+
+* setting next snapshot version [skip ci] ([3ec39eb](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/3ec39eb02bfaa13e80338cbd8d50814abaf71bb7))
+
 ## [4.1.0](https://github.com/ashleycaselli/maven-sem-release-config-test/compare/custom-tag-4.0.6...custom-tag-4.1.0) (2025-11-26)
 
 ### Features
