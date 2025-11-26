@@ -1,3 +1,9 @@
+## [4.1.2](https://github.com/ashleycaselli/maven-sem-release-config-test/compare/custom-tag-4.1.1...custom-tag-4.1.2) (2025-11-26)
+
+### Bug Fixes
+
+* trigger release ([d8418a1](https://github.com/ashleycaselli/maven-sem-release-config-test/commit/d8418a101577f1801a192c8582784ec8a6ed8e14))
+
 ## [4.1.1](https://github.com/ashleycaselli/maven-sem-release-config-test/compare/custom-tag-4.1.0...custom-tag-4.1.1) (2025-11-26)
 
 ### Bug Fixes
