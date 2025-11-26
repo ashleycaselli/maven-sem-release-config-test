@@ -1,9 +1,7 @@
 name: sync-master.yml
 on:
-  push:
-    branches: [ release ]
-    paths:
-      - 'CHANGELOG.md'
+  release:
+    types: [ published ]
 
 jobs:
   sync:
